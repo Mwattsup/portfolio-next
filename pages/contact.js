@@ -17,7 +17,7 @@ export default function about() {
                             href="/portfolio"><a>Portfolio</a></Link>
                 </nav>
             </Fade>
-                    <iframe className='googleForm' src="https://docs.google.com/forms/d/e/1FAIpQLSfLxq8XKIRGOhV6qU3pGGzo-NFuHqbYlz9AQC0jLVEK4c2w6w/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                    <iframe scrolling='no'className='googleForm' src="https://docs.google.com/forms/d/e/1FAIpQLSfLxq8XKIRGOhV6qU3pGGzo-NFuHqbYlz9AQC0jLVEK4c2w6w/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
             </div>
 
             <footer>

@@ -149,5 +149,6 @@ code {
 
 .googleForm {
     width: 100%;
-    height: 775px;
+    height: 850px;
+    overflow: hidden;
 }
