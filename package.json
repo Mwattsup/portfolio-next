@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "next": "9.3.2",
+    "rc-texty": "^0.2.0",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-reveal": "^1.2.2"
   }
 }
