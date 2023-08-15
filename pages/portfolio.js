@@ -22,7 +22,6 @@ export default function portfolio() {
                             <h3>Timeclock Application</h3>
                             <p>An application an employer can use to set up departments and add employees to those departments. The employees can then clock in and out to record their time worked.</p>
                             <a href='https://github.com/corbincad/timeclock'>GitHub Repo</a>
-                            <a href='https://mwattsup.github.io/expoTimeclock'>Deployed Application</a>
                         </div>
                         <div className="card">
                             <img className='portImg' src="/food_drink.png" />
@@ -36,7 +35,6 @@ export default function portfolio() {
                             <h3>Burger Naming Application</h3>
                             <p>This is an application that you come up with names for burgers and they appear in the list, once you hit the devour button that burger will move to the devoured side.</p>
                             <a href='https://github.com/Mwattsup/burger'>GitHub Repo</a>
-                            <a href='https://fast-crag-29487.herokuapp.com/'>Deployed Application</a>
                         </div>
                         <div className='portImg' className="card">
                             <img src="/githubtoPDF.gif" style={{ height: 230 }} />
@@ -49,14 +47,12 @@ export default function portfolio() {
                             <h3>Note Taker</h3>
                             <p>This is a page that lets you take notes and save or delete them for when you return to the page. </p>
                             <a href='https://github.com/Mwattsup/noteTaker'>GitHub Repo</a>
-                            <a href='https://young-waters-94912.herokuapp.com/'>Deployed Application</a>
                         </div>
                         <div className="card">
                             <img className='portImg' src="weather.png" />
                             <h3>Weather App</h3>
                             <p>This weather app accesses a weather api that gets all the information for the weather and forecast for the city you type in.</p>
                             <a href='https://github.com/Mwattsup/weather-app'>GitHub Repo</a>
-                            <a href='https://mwattsup.github.io/weather-app/'>Deployed Application</a>
                         </div>
                     </div>
                 </Fade>
