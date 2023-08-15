@@ -22,7 +22,7 @@ export default function portfolio() {
                             <h3>Timeclock Application</h3>
                             <p>An application an employer can use to set up departments and add employees to those departments. The employees can then clock in and out to record their time worked.</p>
                             <a href='https://github.com/corbincad/timeclock'>GitHub Repo</a>
-                            <a href='https://serene-tundra-35845.herokuapp.com/'>Deployed Application</a>
+                            <a href='https://mwattsup.github.io/expoTimeclock'>Deployed Application</a>
                         </div>
                         <div className="card">
                             <img className='portImg' src="/food_drink.png" />
